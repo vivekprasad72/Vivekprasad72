@@ -43,8 +43,8 @@
 
 ## 🌐 Connect With Me
 
-•⁠  ⁠GitHub:[ https://github.com/YOUR_USERNAME](https://github.com/vivekprasad72)
-•⁠  ⁠LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vivek-kumar-prasad-a98a81326/)
+•⁠  ⁠GitHub:[ https://github.com/vivekprasad72](https://github.com/vivekprasad72)
+•⁠  ⁠LinkedIn: [https://linkedin.com/in/vivek-kumar-prasad](https://www.linkedin.com/in/vivek-kumar-prasad-a98a81326/)
 •⁠  ⁠Portfolio: https://YOUR_PORTFOLIO_LINK
 
 ---
