@@ -36,11 +36,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ## 🔥 Streak Stats
 
@@ -48,8 +43,8 @@
 
 ## 🌐 Connect With Me
 
-•⁠  ⁠GitHub: https://github.com/YOUR_USERNAME
-•⁠  ⁠LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+•⁠  ⁠GitHub:[ https://github.com/YOUR_USERNAME](https://github.com/vivekprasad72)
+•⁠  ⁠LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vivek-kumar-prasad-a98a81326/)
 •⁠  ⁠Portfolio: https://YOUR_PORTFOLIO_LINK
 
 ---
